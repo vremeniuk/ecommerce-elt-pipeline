@@ -14,3 +14,6 @@ __pycache__/
 
 # Temporary data
 *.jsonl
+
+# Generated datasets
+data/raw/orders.json
